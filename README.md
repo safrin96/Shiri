@@ -8,7 +8,7 @@ Database:  IBM Cloud management software.
 
 ## Prototype
 This is a native application which is still in the process of being developed. Currenly you can check the prototype demo here. <br>
-<a href="https://www.youtube.com/embed/v=YnEvoh8W5rk&t=1s/">Shiri Prototype Demo</a>
+<a href="https://drive.google.com/file/d/1a7WkJX-D6yaVB9QWO5PIiCWv-GvMOX83/view?usp=sharing/">Shiri Prototype Demo</a>
 
 ## Developer Website
-<a href="https://shirifly.org/">
+<a href="https://shirifly.org/">Shiri</a>
